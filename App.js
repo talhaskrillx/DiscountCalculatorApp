@@ -59,7 +59,7 @@ const App = () => {
 
       <View style={styles.header}>
         <View>
-          <Text style={styles.headerTexts}> Discount </Text>
+          <Text style={styles.headerTexts}> Discount Calulator </Text>
         </View>
       </View> 
 
@@ -143,7 +143,7 @@ const styles = StyleSheet.create({
   },
   headerTexts: {
     fontWeight: "bold",
-    fontSize: 30,
+    fontSize: 20,
     fontStyle: "italic",
     letterSpacing: 4,
     
