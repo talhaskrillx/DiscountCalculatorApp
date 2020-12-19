@@ -58,6 +58,6 @@ It should contain following information:
 · Price After Discount
 
 
-##Screenshot
-
+## Screenshot
+![](Screenshots/main.png)
 
